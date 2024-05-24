@@ -7,6 +7,6 @@ public class Usuario {
         System.out.println("Tv ligada?" + smartTv.ligada);
 
         smartTv.trocarCanal(54);
-        System.out.println("Canal atual depois de trocado " + smartTv.canal);
+        System.out.println("Canal iatual depois de trocado " + smartTv.canal);
     }
 }
